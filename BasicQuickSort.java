@@ -1,4 +1,14 @@
-class QuickSort
+/*
+Author: Brandon London
+Date: 10/26/20
+Description: 
+basic version of Quicksort as discussed in our textbook
+Quicksort with switching to Insertion sort when the number of elements in the subarray is less than or equal to 2% of the original number
+Quicksort with ‘median-of-three’partitioning
+Quicksort with randomly selected pivot value.
+*/
+
+class BasicQuickSort
 
 {
 

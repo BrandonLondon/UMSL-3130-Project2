@@ -1,3 +1,10 @@
+/*
+ * Author: Brandon London
+ * Date: 10/26/20
+ * Class: 3130 Algorithms Fall 2020
+ * Professor: Galina Piatnitskaia 
+ * Purpose: Implements quicksort using random pivots
+ * */
 package edu.umsl.cs.UMSL3130Project2.sort;
 import java.util.*; 
 

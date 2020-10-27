@@ -1,3 +1,10 @@
+/*
+ * Author: Brandon London
+ * Date: 10/26/20
+ * Class: 3130 Algorithms Fall 2020
+ * Professor: Galina Piatnitskaia 
+ * Purpose: Preforms the basic quicksort functions
+ */
 package edu.umsl.cs.UMSL3130Project2.sort;
 
 public class QuickSortBasic extends QuickSort {

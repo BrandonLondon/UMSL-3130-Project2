@@ -4,9 +4,7 @@ Programming Project #2 [100 points].
 
 Due date: Wednesday, October 28.
 
-# The purpose of the programming assignment is to perform empirical comparative
-
-# analysis of several modifications of Quicksort for integer arrays.
+# The purpose of the programming assignment is to perform empirical comparative analysis of several modifications of Quicksort for integer arrays.
 
 # A. [80 points] Implement the following:
 
